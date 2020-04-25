@@ -5,6 +5,12 @@
         "paths": {
             "c/uiServices": [
                 "uiServices/uiServices.js"
+            ],
+            "c/paymentComponent": [
+                "paymentComponent/paymentComponent.js"
+            ],
+            "c/libraryExample": [
+                "libraryExample/libraryExample.js"
             ]
         }
     },
